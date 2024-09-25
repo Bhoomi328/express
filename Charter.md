@@ -1,7 +1,7 @@
 # Express Charter
 
 ## Section 0: Guiding Principles
-
+# Author Bhoomika M H
 The Express project is part of the OpenJS Foundation which operates
 transparently, openly, collaboratively, and ethically.
 Project proposals, timelines, and status must not merely be open, but
